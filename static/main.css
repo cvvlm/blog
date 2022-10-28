@@ -13,7 +13,7 @@ body {
   }
   
   .site-header .navbar-nav .nav-link {
-    color: #cbd5db;
+    color: #d1f6f6;
   }
   
   .site-header .navbar-nav .nav-link:hover {
@@ -37,7 +37,7 @@ body {
   }
   
   a.article-title:hover {
-    color: #428bca;
+    color: #4ADEDE;
     text-decoration: none;
   }
   
@@ -77,4 +77,7 @@ body {
   
   .account-heading {
     font-size: 2.5rem;
+  }
+  .btn .btn-outline-info {
+    
   }
